@@ -1,0 +1,6 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "~6.0",
+        "krakjoe/pthreads-polyfill": "^1.1"
+    }
+}
